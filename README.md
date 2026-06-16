@@ -3,7 +3,7 @@ Employee Management System
 A production-ready Full-Stack Employee Management interface built to optimize administrative workflows, department monitoring, and leave request cycles. 
 
  Live Interactive Demo
-* **Live Sandbox URL:** [INSERT YOUR VERCEL LINK HERE LATER]
+* **Live Sandbox URL:** [https://employee-ms-nine.vercel.app/start]
 * *Note: The live link features an adaptive demo sandbox fallback configuration that automatically intercepts API requests and loads fluid, interactive local mockup states when isolated from the production MySQL container database.*
 
 ---
